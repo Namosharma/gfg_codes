@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/NAMO SHARMA/OneDrive/Desktop/DSA/and OPERATION",
-      "program": "c:/Users/NAMO SHARMA/OneDrive/Desktop/DSA/and OPERATION/build/Debug/outDebug",
+      "cwd": "d:/Code/gfg_codes",
+      "program": "d:/Code/gfg_codes/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
